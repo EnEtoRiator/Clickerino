@@ -4,6 +4,7 @@
 - Global Update: 1
 - Bug Fix: 0
 - New Features: 0
+
 **Alpha**
 
 **Simple python game - clicker simulator.**
