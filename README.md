@@ -7,6 +7,7 @@
 **Alpha**
 
 **Simple python game - clicker simulator.**
+python version: 3.11.6
 
 - Infinite Progress
 - Save/Load your progress
